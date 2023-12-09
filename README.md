@@ -1,10 +1,10 @@
 # BipedalWalker-ModifiedReward
 Implementation of genetic algorithms and Deep Deterministic Policy Gradients (DDPG) trained on Modified Rewards of Gym's Bipedal Walker
 
-DDPG-Default Reward:
+DDPG-Default Reward:  \
 ![](./documents/default.gif)
 
-DDPG-RunFaster Reward:
+DDPG-RunFaster Reward:  \
 ![](./documents/runfaster.gif)
 
 This is the portion of a [group project](https://github.com/ngocanh2809/CS5446-Bipedal-Walker) done by me. 
